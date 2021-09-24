@@ -23,7 +23,7 @@
         "*#BITCOIN*", 
         "`1MXXgwKuu7LYBLSwVPXBtYm7YbMPmdxpnY`",
         "*#ETHEREUM*", 
-        "`0xa1a5fe02a13ab27957b45898c98362a6db2b67be`",
+        "`0x98b2E5c160A775e3D9E3b48626568B017B51F75B`",
         "*#DASH*", 
         "`Xtg2vYwH4tE2uDvdzgJnF7Jmm5t9X98p3B`",
         "*#BNB*",
@@ -35,7 +35,9 @@
         "MEMO",
         "`105825553`",
         "*#USDT*", 
-        "`0xa1a5fe02a13ab27957b45898c98362a6db2b67be`"
+        "`0x98b2E5c160A775e3D9E3b48626568B017B51F75B`",
+        "*#SHIBAINU*", 
+        "`0x98b2E5c160A775e3D9E3b48626568B017B51F75B`"
     ],
     "faqs2": [
         "\uD83E\uDDA0 @Coronaviruskenyabot FAQs *#STAYSAFE*",
